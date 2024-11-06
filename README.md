@@ -2,6 +2,8 @@
 
 Here, I present data analysis and visualization projects aimed at extracting actionable insights from business data. My work demonstrates the use of advanced SQL for deep data analysis, paired with Tableau to deliver interactive, storytelling dashboards that reveal trends, insights, and performance metrics effectively.
 
+To see my dashboards : https://public.tableau.com/app/profile/cansu.sari/vizzes
+
 **1. Customer Shopping Segmentation**
 
 **Goal:** Identify and understand various customer segments and shopping behaviors.
