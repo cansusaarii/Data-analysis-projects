@@ -32,7 +32,7 @@ Scatter Plots: Distribution of measures .
 
 I first sketched the dashboard layout to ensure a logical flow of information. Then, I assembled the charts and added interactivity through filters and actions. The final dashboard delivered a cohesive and visually engaging story about HR metrics.
 
-See on Tableau: https://public.tableau.com/app/profile/cansu.sari/viz/HRDashboard_17325522676680/HRDashboard
+See on Tableau: https://public.tableau.com/app/profile/cansu.sari/viz/HRDashboard_17326374306950/HRDashboard
 
 **2. Superstore Sales Performance Analysis**
 
