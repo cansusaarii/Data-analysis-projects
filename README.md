@@ -16,19 +16,13 @@ Data Preparation: The dataset was refined by creating calculated fields (e.g., t
 
 Based on the analysis requirements, I created a variety of charts to highlight insights effectively:
 
-BANs (Big-Ass Numbers): For high-level KPIs like total employees, average salary, and performance ratings.
-
-Line Charts: To analyze salary trends or performance over time.
-
-Bar Charts: To show gender distribution and salary by education levels.
-
-Maps: For geographical representation of employee demographics .
-
-Pie Charts: For a breakdown of gender or education level proportions.
-
-Heatmaps: To compare age/education across performance ratings.
-
-Scatter Plots: Distribution of measures .
+1. BANs (Big-Ass Numbers): For high-level KPIs like total employees, average salary, and performance ratings.
+2. Line Charts: To analyze salary trends or performance over time.
+3. Bar Charts: To show gender distribution and salary by education levels.
+4. Maps: For geographical representation of employee demographics .
+5. Pie Charts: For a breakdown of gender or education level proportions.
+6. Heatmaps: To compare age/education across performance ratings.
+7. Scatter Plots: Distribution of measures .
 
 I first sketched the dashboard layout to ensure a logical flow of information. Then, I assembled the charts and added interactivity through filters and actions. The final dashboard delivered a cohesive and visually engaging story about HR metrics.
 
