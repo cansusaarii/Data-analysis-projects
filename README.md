@@ -4,7 +4,25 @@ Here, I present data analysis and visualization projects aimed at extracting act
 
 To see my dashboards : https://public.tableau.com/app/profile/cansu.sari/vizzes
 
-**1. HR Analysis**
+**1. Amazon Dataset Analysis**
+In this project, I explore an extensive dataset of Amazon products to extract meaningful insights using SQL (Google BigQuery) and Python (Kaggle Notebook). The primary goals of this analysis are:
+
+🛒 Understanding product pricing patterns (discounted vs. actual prices)
+
+⭐ Analyzing customer ratings and reviews
+
+📊 Exploring sales trends and discount strategies
+
+🔍 Identifying correlations between price, rating, and review count
+
+📈 Visualizing key findings using Looker Studio or Tableau
+
+1. **Step 1:** Data Extraction & Cleaning
+2. **Step 2:** SQL Analysis with Google BigQuery
+3. **Step 3:** Python Analysis in Kaggle Notebook
+4. **Step 4:** Data Visualization
+
+**2. HR Analysis**
 
 **Goal:** Analyze HR data to derive actionable insights about employee demographics, performance, and compensation trends.
 
@@ -28,7 +46,7 @@ I first sketched the dashboard layout to ensure a logical flow of information. T
 
 See on Tableau: https://public.tableau.com/app/profile/cansu.sari/viz/HRDashboard_17326374306950/HRDashboard
 
-**2. Superstore Sales Performance Analysis**
+**3. Superstore Sales Performance Analysis**
 
 **Goal:** Analyze and evaluate sales performance and profitability metrics at a granular level.
 
@@ -38,7 +56,7 @@ See on Tableau: https://public.tableau.com/app/profile/cansu.sari/viz/HRDashboar
 
 See on Tableau: https://public.tableau.com/app/profile/cansu.sari/viz/SalesPerformanceOverview_17301155253540/Dashboard1
 
-**3. Customer Shopping Segmentation**
+**4. Customer Shopping Segmentation**
 
 **Goal:** Identify and understand various customer segments and shopping behaviors.
 
