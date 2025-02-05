@@ -15,12 +15,15 @@ In this project, I explore an extensive dataset of Amazon products to extract me
 
 🔍 Identifying correlations between price, rating, and review count
 
-📈 Visualizing key findings using Looker Studio or Tableau
+📈 Visualizing key findings using Looker Studio
 
 1. **Step 1:** Data Extraction & Cleaning
 2. **Step 2:** SQL Analysis with Google BigQuery
 3. **Step 3:** Python Analysis in Kaggle Notebook
 4. **Step 4:** Data Visualization
+
+![Ekran görüntüsü 2025-02-05 144311](https://github.com/user-attachments/assets/4ce09e21-3c1d-4d50-82df-820d81a6c046)
+
 
 **2. HR Analysis**
 
